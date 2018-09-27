@@ -1,0 +1,18 @@
+Project 1 Score Report
+Head Member: danhn2@uci.edu
+Second Member: rjmcgrat@uci.edu
+
+Correctness: 55/60
+ -5 no error checking and no message
+
+Code Structure: 5/5
+ 
+
+Documentation: 7/10
+ -2 no analysis for theoretical expected WC
+ -1 improper inconsistency analysis
+
+Efficiency: 25/25
+ Observed Worst Case = 10643
+
+TOTAL: 92/100
